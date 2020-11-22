@@ -129,21 +129,16 @@ body {
 	justify-content: space-around;
 	align-items: center;
 	padding: 0px 0px 80px 0px;
-}
-.reason__statistics-item {
-}
-.reason__statistics-images {
+	text-align: center;
 }
 .reason__statistics-num {
 	margin-top: 33px;
-	text-align: center;
 	font-weight: 700;
 	font-size: 22px;
 	line-height: 30px;
 	color: #4e5665;
 }
 .reason__statistics-text {
-	text-align: center;
 	font-weight: 700;
 	font-size: 14px;
 	line-height: 17px;
@@ -235,9 +230,8 @@ body {
 	max-width: 1170px;
 	position: relative;
 }
-.preview__img img {
-	width: 100%;
-	max-width: 1170px;
+.preview__img-box img {
+	max-width: 100%;
 }
 
 .preview__dot {
@@ -327,6 +321,8 @@ body {
 	height: 1px;
 	background-color: rgba(208, 212, 216, 0.5);
 	bottom: 0;
+	left: 0;
+	right: 0;
 	margin: 0 auto;
 }
 .photo__slider {
