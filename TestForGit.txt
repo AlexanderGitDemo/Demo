@@ -4,3 +4,7 @@ fist
 4
 5
 6TEST
+8 
+0
+10gir checkout
+git 
